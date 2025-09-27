@@ -17,6 +17,6 @@ This is an ambitious project, especially if LLMs have to be tied to a persistent
 **Research Question**: Comparing language acquisition between control group and test group on various language learning metrics. 
 **Hypothesis**: RPLLG represents an effective implementation of results from the literature:
 
-!(Literature.png)
+![](Literature.png)
 
 In this case, drill and practice games represent control group (Duolingo users), whereas RPLLG are the test group.
