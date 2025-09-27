@@ -1,7 +1,9 @@
 # Role-Playing Language Learning Game (RPLLG)
 Learn languages by playing an immersive, interactive adventure! Powered by generative AI.
 
-Research shows that language learning is improved by immersion. This means that learning a language is improved by being immersed in a story / interactive game when compared to short, one-off puzzles.
+![](Killer.png)
+
+Research shows that language learning is improved by being immersed in a story / interactive game when compared to short, one-off puzzles.
 
 LLMs allow open-ended, interactive story progression with player input. The goal is to build the lore to be centered around the concept of 2 languages, reflected in the gameplay.
 A fantasy example, using parallel dimensions (overused concept, I know): 
