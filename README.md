@@ -1,7 +1,7 @@
 # Role-Playing Language Learning Game (RPLLG)
 Learn languages by playing an immersive, interactive adventure! Powered by generative AI.
 
-![](Killer.png)
+<img src="Killer.png" alt="Concept Art Placeholder" width="50%"/>
 
 Research shows that language learning is improved by being immersed in a story / interactive game when compared to short, one-off puzzles.
 
